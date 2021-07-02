@@ -12,6 +12,8 @@ public class Variable {
 		System.out.println(constantNumber +number1);
 		System.out.println(constantNumber*number2);
 		
+		// Any fractonal number consider as double in java
+		// suffix 'f' means float type.
 		float number3 = 4.53f;
 		double number4 = 5.23;
 		
@@ -21,7 +23,7 @@ public class Variable {
 		
 		int temp= 10;
 		
-		int for =40;
+//		int for =40;
 		
 		
 		
